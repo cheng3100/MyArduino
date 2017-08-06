@@ -1,0 +1,21 @@
+C:\Users\Administrator\AppData\Local\Temp\VMBuilds\nixie_clock\mega_atmega2560\nixie_clock.cpp.o: \
+ C:\Users\Administrator\AppData\Local\Temp\VMBuilds\nixie_clock\mega_atmega2560\nixie_clock.cpp \
+ C:\Users\Administrator\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.17\cores\arduino/arduino.h \
+ C:\Users\Administrator\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.17\cores\arduino/binary.h \
+ C:\Users\Administrator\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.17\cores\arduino/WCharacter.h \
+ C:\Users\Administrator\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.17\cores\arduino/WString.h \
+ C:\Users\Administrator\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.17\cores\arduino/HardwareSerial.h \
+ C:\Users\Administrator\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.17\cores\arduino/Stream.h \
+ C:\Users\Administrator\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.17\cores\arduino/Print.h \
+ C:\Users\Administrator\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.17\cores\arduino/Printable.h \
+ C:\Users\Administrator\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.17\cores\arduino/USBAPI.h \
+ C:\Users\Administrator\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.17\cores\arduino/Arduino.h \
+ C:\Users\Administrator\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.17\variants\mega/pins_arduino.h \
+ C:\Users\Administrator\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.17\libraries\Wire\src/Wire.h \
+ C:\Users\Administrator\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.17\cores\arduino/Stream.h \
+ C:\Users\Administrator\Documents\Arduino\libraries\AM2321-master/AM2321.h \
+ C:\Users\Administrator\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.17\cores\arduino/Arduino.h \
+ C:\Users\Administrator\Documents\Arduino\libraries\orbitalair-arduino_rtc_pcf8563-1fd3fcfc7941/Rtc_Pcf8563.h \
+ C:\Users\Administrator\Documents\Arduino\libraries\Timer-master/Timer.h \
+ C:\Users\Administrator\Documents\Arduino\libraries\Timer-master/Event.h \
+ E:\IMsoft\atmelStudio\7.0\Extensions\vgji5gna.huj\Micro\ Platforms\default\debuggers\VM_DBG/VM_DBG.h
